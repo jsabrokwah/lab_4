@@ -1,0 +1,10 @@
+.idea
+api/venv
+api/.env
+api/__pycache__
+api/*.pyc
+api/*.pyo
+api/*.pyd
+api/*.db
+api/*.sqlite
+api/*.log
