@@ -1,6 +1,12 @@
-# E-commerce Analytics API
+# Programming, Ops and Database Exercise API
 
-Flask-based REST API providing e-commerce analytics endpoints.
+Flask-based REST API providing endpoints the following queries.
+
+- Top Customers by Spending
+- Monthly Sales Report (Only Shipped/Delivered)
+- Products Never Ordered
+- Average Order Value by Country
+- Frequent Buyers (More Than One Order)
 
 ## Setup
 

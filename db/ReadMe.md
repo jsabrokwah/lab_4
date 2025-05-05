@@ -1,5 +1,8 @@
 # Database Setup Guide
 
+## Setup an AWS RDS MySQL Database
+- Follow this [AWS RDS](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.CreatingConnecting.MySQL.html) to setup a Database service
+
 ## Initial Setup
 
 1. Create database:

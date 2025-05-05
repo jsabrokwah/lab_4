@@ -27,18 +27,19 @@ This project implements an Programming, Ops and Database Exercise API system wit
 ## Getting Started
 
 1. Setup the database:
+    - Follow this [ReadMe.md](./db/ReadMe.md)
    ```bash
    cd db
-   # Follow instructions in db/ReadMe.md
    ```
 
 2. Start the API:
+    - Follow this [ReadMe.md](./api/ReadMe.md)
    ```bash
    cd api
    docker-compose up
    ```
 
-3. Access the API at `http://52.18.99.211:5000`
+3. Access the API at [http://54.78.84.185:5000](http://54.78.84.185:5000)
 
 ## API Endpoints
 
