@@ -39,7 +39,7 @@ This project implements an Programming, Ops and Database Exercise API system wit
    docker-compose up
    ```
 
-3. Access the API at [http://54.78.84.185:5000](http://54.78.84.185:5000)
+3. Access the API at [http://54.76.91.100:5000](http://54.76.91.100:5000)
 
 ## API Endpoints
 
